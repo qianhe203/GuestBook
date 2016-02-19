@@ -68,6 +68,7 @@
 	    </form>   
      <% } else {
      %>   
+     <p> Please sign in first before attempting to post! </p> <% } %>
       </div><!-- /.row -->
     </div><!-- /.container -->
      <script src="\js\bootstrap.min.js"></script>    
